@@ -1,3 +1,4 @@
 test
 test push
 test coll2 pull
+test ssh
